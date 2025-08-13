@@ -38,5 +38,5 @@ This system is designed to improve efficiency in internal requests (VA2) and sto
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <your-repo-link>
+   git clone (https://github.com/Lumkwana/supply-chain-web-system.git)
 
